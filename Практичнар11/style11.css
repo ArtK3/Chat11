@@ -1,0 +1,190 @@
+*{ 
+	margin: 0px;
+	padding: 0px;
+	background-image:
+}
+
+header{
+	position: fixed;
+	width: 100%;
+}
+
+
+#t1{
+	display: flex;
+	justify-content: space-between;
+	background-color: #ceddf3;
+	padding: 20px;
+}
+
+#t2{
+	padding: 10px;
+	display: flex;
+	font-size: 40px;
+	font-family: Arial;
+	background-image: linear-gradient(to top left, #e2e8f1, #89a9ca);
+}
+
+#t2 p{
+	color: #3399FF;
+	
+	}
+#t2 div{
+	margin-left: 10px;
+}
+#name{
+	color: #000000;
+}
+#members{
+	color: #A0A0A0;
+}
+
+#t2 span{
+	font-size:20pt;
+}
+html{
+	background-image: url(images11/chat_background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#date1{
+	color: grey;
+	font-size: 16pt;
+	font-family: Arial;
+	background-color: #ceddf3;
+	border-radius: 10px;
+	padding: 7px;
+	
+}
+main
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	padding-top:200px;
+}
+#message1{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#m1p{
+	color: yellow;
+}
+#message2{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#m2p{
+	color: orange;
+}
+#message3{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#m3p{
+	color: purple;
+}
+#join1{
+	color: grey;
+	font-size: 16pt;
+	font-family: Arial;
+	background-color: #ceddf3;
+	border-radius: 10px;
+	padding: 7px;
+}
+#message4{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#m4p{
+	color: #FF33FF;
+}
+#join2{
+	color: grey;
+	font-size: 16pt;
+	font-family: Arial;
+	background-color: #ceddf3;
+	border-radius: 10px;
+	padding: 7px;
+}
+#m5p{
+	color: #0000FF;
+}
+#message5{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#join3{
+	color: grey;
+	font-size: 16pt;
+	font-family: Arial;
+	background-color: #ceddf3;
+	border-radius: 10px;
+	padding: 7px;
+}
+#m6p{
+	color: red;
+}
+#message6{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#messagea{
+	font-size: 16pt;
+	align-self: flex-end;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 20px 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#ma{
+	color: #006600;
+}
+#message7{
+	font-size: 16pt;
+	align-self: flex-start;
+	font-family: Arial;
+	background-color: white;
+	border-radius: 0 20px 40px;
+	padding: 15px;
+	margin: 10px;
+}
+#m6p{
+	color: red;
+}
+#m7p{
+	color: purple;
+}
